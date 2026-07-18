@@ -42,3 +42,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/manta-97/manta-97/main/profile-summary-card-output/apprentice/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/manta-97/manta-97/main/profile-summary-card-output/apprentice/4-productive-time.svg)
+```
+
+    
