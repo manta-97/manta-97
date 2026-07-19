@@ -42,3 +42,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/manta-97/manta-97/main/profile-summary-card-output/kacho_ga/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/manta-97/manta-97/main/profile-summary-card-output/kacho_ga/4-productive-time.svg)
+```
+
+    
